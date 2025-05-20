@@ -1,0 +1,3 @@
+U1,mokshan,123456,mokshan@gmail.com,0769914959,296/1 aluhalaogh,customer,null,ejkfosedjfsijfiosfosf
+U2,sasindumadushan,1234,shehan@gmail.com,0769914959,6645454/1 adasfsefjsrgkjsrjgi,customer
+UADMIN1,admin,admin123,admin@medicare.com,,,admin,admin-access
