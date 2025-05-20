@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:28 +0530] "GET /OnlineMediCare HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/ HTTP/1.1" 200 34482
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/CProduct1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/CProduct2.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/CProduct3.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/products/c8627143-2015-44fa-a994-a8ca3dff293e_medicine-capsules-global-health-with-geometric-pattern-digital-remix.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/products/6495d501-f339-478c-8fff-e1707ea314f5_about.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/products/1f45aa34-4cdd-49da-a618-d298e1d8abef_FImage10.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/about.jpeg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/payment.webp HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/resources/images/storebackground.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/cart/count HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /OnlineMediCare/cart/count HTTP/1.1" 404 683
+0:0:0:0:0:0:0:1 - - [20/May/2025:09:38:30 +0530] "GET /favicon.ico HTTP/1.1" 404 683
